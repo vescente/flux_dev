@@ -1,21 +1,21 @@
-Copyright (c) 2024 Flux. All rights reserved.
+MIT License
 
-This source code is made publicly viewable for evaluation, demonstration, and
-review purposes only (for example, as part of a grant or funding application).
+Copyright (c) 2024 vescente
 
-You MAY:
-  - view and read the source;
-  - clone it locally to run the prototype for personal evaluation.
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
 
-You MAY NOT, without prior written permission from the copyright holder:
-  - use this software or any part of it in a product or service;
-  - redistribute, sublicense, sell, or host it;
-  - create derivative works from it.
-
-No license, express or implied, is granted to any patent, trademark, or other
-intellectual property right except the limited viewing/evaluation permission
-stated above.
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED. IN NO EVENT SHALL THE AUTHORS BE LIABLE FOR ANY CLAIM, DAMAGES, OR
-OTHER LIABILITY ARISING FROM THE USE OF THE SOFTWARE.
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.

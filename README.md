@@ -41,4 +41,8 @@ Requires Node 18+.
 
 This is a prototype meant to communicate the concept and the interaction model.
 It is **not** production software: no persistence, no accounts, no server —
-everything runs client-side over the rows you load. See `LICENSE`.
+everything runs client-side over the rows you load.
+
+## License
+
+MIT — see [`LICENSE`](./LICENSE). Contributions and forks are welcome.
